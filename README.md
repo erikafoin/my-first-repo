@@ -1,2 +1,1 @@
-# my-first-repo
-Alchemy first repo
+This is a great repo
